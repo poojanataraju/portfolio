@@ -1,0 +1,115 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+nav {
+    background-color: rgb(179, 251, 106);
+    padding: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+nav div {
+    display: inline-block;
+    width: 49%;
+}
+
+nav .nav2 a {
+    display: inline-block;
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+nav h1 {
+    margin-left: 20px;
+    color: blue;
+    display: inline-block;
+}
+
+.main img {
+    border-radius: 20%;
+    margin-right: auto;
+
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+    padding: 100px 0 100px 0;
+}
+
+.main div {
+    width: 49%;
+    display: inline-block;
+}
+
+.main1 {
+    text-align: center
+}
+
+.main button {
+    background-color: chocolate;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+  
+.main1 img{
+  border-radius: 50%;
+}
+.main h1,
+.main button {
+    margin-top: 20px;
+}
+.pskill{
+    padding-left: 10px;
+}
+.scard{
+    display: inline-block;
+    width: 8%;
+    text-align: center;
+    padding: 4px;
+    border-radius: 2px;
+    background-color: aqua;
+    border-radius: 6%;
+    margin-right: 4%;
+    margin-top: 7%;
+    margin-left: 5%;
+
+}
+.scard:hover{
+    scale:105%;
+    background-color:pink;
+    box-shadow : 10px 10px 10px darkolivegreen ;
+}
+.div1{
+    margin:2%;
+    display:inline-block ;
+    padding: 5%;
+    border: 15px;
+}
+.div2{
+    margin: 20px;
+    display: inline-block;
+    padding: 5%;
+    border: 15px;
+    
+}
+.poo1{
+    border-style: solid;
+    text-align: center;
+
+}
+.pro{
+    width: 48%;
+    display: inline-block;
+}
+.teju{
+ text-align: end;
+}
